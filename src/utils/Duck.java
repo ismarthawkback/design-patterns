@@ -1,8 +1,8 @@
 package utils;
 
 public abstract class Duck {
-    public QuackBehaviour quackBehaviour;
-    public FlyBehaviour flyBehaviour;
+    QuackBehaviour quackBehaviour;
+    FlyBehaviour flyBehaviour;
 
     public Duck(FlyBehaviour flyBehaviour, QuackBehaviour quackBehaviour) {
         this.flyBehaviour = flyBehaviour;
