@@ -1,4 +1,4 @@
-package utils.flybehaviours;
+package strategy.flybehaviours;
 
 import utils.FlyBehaviour;
 

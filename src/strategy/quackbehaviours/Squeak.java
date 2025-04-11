@@ -1,4 +1,4 @@
-package utils.quackbehaviours;
+package strategy.quackbehaviours;
 
 import utils.QuackBehaviour;
 
